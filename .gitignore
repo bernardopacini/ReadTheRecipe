@@ -1,0 +1,6 @@
+# Sphinx Documentation Files
+build/*
+source/_build/*
+source/_static/*
+source/_templates/*
+source/.vscode/*
