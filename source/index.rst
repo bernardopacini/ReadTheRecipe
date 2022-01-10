@@ -10,3 +10,4 @@ ReadTheRecipe
    meat/index
    seafood/index
    dessert/index
+   miscellaneous/index
