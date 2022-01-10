@@ -3,5 +3,10 @@ ReadTheRecipe
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   breakfast/index
+   snack/index
+   pasta/index
+   meat/index
+   seafood/index
+   dessert/index
