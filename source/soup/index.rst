@@ -1,0 +1,7 @@
+Soup
+====
+
+.. toctree::
+   :maxdepth: 1
+
+   fiveIngrWhiteChickenChili
