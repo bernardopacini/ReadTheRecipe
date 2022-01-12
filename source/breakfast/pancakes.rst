@@ -10,14 +10,14 @@ Details
 Ingredients
 -----------
 
-* 1 Egg
-* 1 1/4 cup Buttermilk
-* 2 tablespoon Vegetable Oil
-* 1 1/4 cup Flour
-* 2 tablespoon Sugar
-* 1 teaspoon Baking Powder
-* 1/2 teaspoon Baking Soda
-* 1/2 teaspoon Salt
+* 1 egg
+* 1 1/4 cup buttermilk
+* 2 tablespoon vegetable oil
+* 1 1/4 cup flour
+* 2 tablespoon sugar
+* 1 teaspoon baking powder
+* 1/2 teaspoon baking soda
+* 1/2 teaspoon salt
 
 Steps
 -----

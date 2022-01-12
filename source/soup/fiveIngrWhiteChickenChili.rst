@@ -10,11 +10,11 @@ Details
 Ingredients
 -----------
 
-* 6 Cups Chicken Broth
-* 3 Cups Cooked Shredded Chicken
-* 2 (15 oz) Cans of White Beans, drained and rinsed
-* 2 Cups Salsa Verde
-* 1 Teaspoon Cumin
+* 6 cups chicken broth
+* 3 cups cooked shredded chicken
+* 2 (15 oz) cans of white beans, drained and rinsed
+* 2 cups salsa verde
+* 1 teaspoon cumin
 
 Steps
 -----
@@ -29,7 +29,7 @@ Notes
 
 Optional toppings include: 
 
-* Chopped Fresh Cilantro
-* Sour Cream
-* Shredded Sharp Cheddar Cheese
-* Diced Avocado
+* Chopped fresh cilantro
+* Sour cream
+* Shredded sharp cheddar cheese
+* Diced avocado
