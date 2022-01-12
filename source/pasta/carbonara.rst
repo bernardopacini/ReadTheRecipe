@@ -29,4 +29,4 @@ Steps
 Notes
 -----
 
-* Timing is of the essence! Serve immediately when cooked.
+* Timing is of the essence! Serve immediately.
