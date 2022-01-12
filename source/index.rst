@@ -6,6 +6,7 @@ ReadTheRecipe
 
    breakfast/index
    snack/index
+   soup/index
    pasta/index
    meat/index
    seafood/index
