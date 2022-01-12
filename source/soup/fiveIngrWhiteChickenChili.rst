@@ -3,19 +3,22 @@
 
 Details
 -------
+
 * Number of servings: 4-8
 * Cook time: 30 Minutes
 
 Ingredients
 -----------
-* 6 Cups Chicken Broth
-* 3 Cups Cooked Shredded Chicken
-* 2 (15 oz) Cans of White Beans, drained and rinsed
-* 2 Cups Salsa Verde
-* 1 Teaspoon Cumin
+
+* 6 cups chicken broth
+* 3 cups cooked shredded chicken
+* 2 (15 oz) cans of white beans, drained and rinsed
+* 2 cups salsa verde
+* 1 teaspoon cumin
 
 Steps
 -----
+
 #. Add chicken broth, shredded chicken, beans, salsa verde and cumin to a large stockpot or Dutch oven over medium heat.
 #. Season with salt and pepper, to taste.
 #. Bring to a boil, reduce heat and simmer until heated through, about 5 minutes.
@@ -23,8 +26,10 @@ Steps
 
 Notes
 -----
+
 Optional toppings include: 
-* Chopped Fresh Cilantro
-* Sour Cream
-* Shredded Sharp Cheddar Cheese
-* Diced Avocado
+
+* Chopped fresh cilantro
+* Sour cream
+* Shredded sharp cheddar cheese
+* Diced avocado
