@@ -3,11 +3,13 @@ Chicken Bake with Stuffing
 
 Details
 -------
+
 * Number of servings: 4-8
 * Cook time: 1 hour
 
 Ingredients
 -----------
+
 * 4-6 Chicken Breasts (boneless and skinless)
 * Swiss Cheese Slices *(optional)*
 * 1 Can Cream of Chicken Soup
@@ -17,6 +19,7 @@ Ingredients
 
 Steps
 -----
+
 #. Preheat oven to 350.
 #. Place chicken breasts in the bottom of a baking dish.
 #. *(Optional)* Layer chicken with cheese.
@@ -29,5 +32,6 @@ Steps
 
 Notes
 -----
+
 Cream of Mushroom soup may be substituted for Cream of Chicken.
 Red wine may be used instead of white for a different flavor.

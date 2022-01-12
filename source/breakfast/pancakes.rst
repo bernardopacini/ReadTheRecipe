@@ -3,11 +3,13 @@ Pancakes
 
 Details
 -------
+
 * Number of servings: 16 4 inch Pancakes
 * Cook time: approximately 1 hour
 
 Ingredients
 -----------
+
 * 1 Egg
 * 1 1/4 cup Buttermilk
 * 2 tablespoon Vegetable Oil
@@ -19,6 +21,7 @@ Ingredients
 
 Steps
 -----
+
 #. In a medium bowl combine dry ingredients.
 #. In a large bowl whisk wet ingredients..
 #. Add dry ingredients to wet and beat with whisk until flour is moistened (batter will be slightly lumpy).
