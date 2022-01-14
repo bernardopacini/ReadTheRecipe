@@ -5,3 +5,4 @@ Soup
    :maxdepth: 1
 
    fiveIngrWhiteChickenChili
+   alphabetSoup
