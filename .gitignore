@@ -4,3 +4,6 @@ source/_build/*
 source/_static/*
 source/_templates/*
 source/.vscode/*
+
+# VSCode
+.vscode/
