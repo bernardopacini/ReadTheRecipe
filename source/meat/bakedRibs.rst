@@ -4,13 +4,13 @@ Simple Oven Baked Ribs
 Details
 -------
 
-* Number of servings: Dependent on number of ribs
+* Number of servings: 2 servings
 * Cook time: 30-50 minutes
 
 Ingredients
 -----------
 
-* Desired number of ribs
+* 1.5 lbs baby back ribs
 * *(optional)* Vegetables/potatoes to roast
 * Desired seasonings
 

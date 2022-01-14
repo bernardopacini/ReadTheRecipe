@@ -10,7 +10,7 @@ Details
 Ingredients
 -----------
 
-* Desired number of sausages
+* Desired number of sausages (1 per person)
 * *(optional)* Vegetables/potatoes to roast
 * Desired seasonings
 
