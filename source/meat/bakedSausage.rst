@@ -4,13 +4,13 @@ Simple Oven Baked Sausage
 Details
 -------
 
-* Number of servings: Dependent on number of sausages
+* Number of servings: 1-2 sausages per person
 * Cook time: 45 minutes
 
 Ingredients
 -----------
 
-* Desired number of sausages (1 per person)
+* Desired number of sausages (1-2 per person)
 * *(optional)* Vegetables/potatoes to roast
 * Desired seasonings
 
