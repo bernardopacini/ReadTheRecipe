@@ -12,6 +12,7 @@ Ingredients
 
 * 1 package chicken thighs (approximates 6 pieces)
 * *(optional)* Vegetables/potatoes to roast
+* Desired seasonings
 
 Steps
 -----
