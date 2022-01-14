@@ -1,7 +1,7 @@
+[![Documentation Status](https://readthedocs.org/projects/readtherecipe/badge/?version=latest)](https://readtherecipe.readthedocs.io/en/latest/?badge=latest)
+
 ReadTheRecipe
 =============
-
-[![Documentation Status](https://readthedocs.org/projects/readtherecipe/badge/?version=latest)](https://readtherecipe.readthedocs.io/en/latest/?badge=latest)
 
 Welcome to ReadTheRecipe!
 As graduate students in computational fields working on optimization, we strive to optimize our day-to-day life!
