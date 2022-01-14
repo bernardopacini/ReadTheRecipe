@@ -37,5 +37,5 @@ Bernardo Pacini & Jenna King
 
 :mega: Note
 -----------
-If you get sick from these recipes, were sorry but don't take responsibility.
+If you get sick from these recipes, we're sorry but don't take responsibility.
 Our highly esteemed team rigorously tests all recipes in the book in our gourmet graduate housing kitchen.
