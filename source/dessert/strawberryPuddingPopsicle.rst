@@ -29,3 +29,5 @@ Notes
 * Add bananas for a more smoothie-like flavor.
 * The pudding mix must be instant, cook and serve varieties will not work.
 * Add the pudding mix straight from the box, do NOT make actual pudding with it first. 
+
+Adapted from `Maebells Simply Easy Recipes <https://www.maebells.com/fresh-strawberry-and-vanilla-pudding-pops/>`_.
