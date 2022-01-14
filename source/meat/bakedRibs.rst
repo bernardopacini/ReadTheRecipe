@@ -22,6 +22,5 @@ Steps
 #. *(Optional)* Prep vegetables and/or potatoes (slice, season, add oil, etc.) and add to the pan with the ribs.
 #. Place in oven, bake for 30-50 minutes (depending on rib quantity).
 
-
 Notes
 -----

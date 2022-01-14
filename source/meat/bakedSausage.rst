@@ -23,6 +23,5 @@ Steps
 #. *(Optional)* Prep vegetables and/or potatoes (slice, season, add oil, etc.) and add to the pan with the pork.
 #. Place in oven, bake for 45 minutes (or until sausage reaches an internal temperature of 160 degrees).
 
-
 Notes
 -----

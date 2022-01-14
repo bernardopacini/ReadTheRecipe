@@ -27,6 +27,5 @@ Steps
 #. *(Optional)* Prep vegetables and/or potatoes (slice, season, add oil, etc.) and add to the pan (outside of the foil pouch).
 #. Place in oven, bake for 15-20 minutes (or until salmon reaches an internal temperature of 145 degrees).
 
-
 Notes
 -----

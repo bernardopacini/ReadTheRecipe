@@ -29,7 +29,6 @@ Steps
 #. Layer mixture on top.
 #. Cook for 40-55 minutes (depending on chicken size).
 
-
 Notes
 -----
 

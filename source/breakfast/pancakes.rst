@@ -31,3 +31,6 @@ Steps
 #. Turn pancakes as soon as they are puffed and full of bubbles, but before bubbles break.
 #. Turn and brown on other side.
 #. Serve immediately with butter and syrup.
+
+Notes
+-----

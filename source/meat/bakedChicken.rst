@@ -22,6 +22,5 @@ Steps
 #. *(Optional)* Prep vegetables and/or potatoes (slice, season, add oil, etc.) and add to the pan with the chicken.
 #. Place in oven, bake for 45 minutes (or until chicken reaches an internal temperature of 165 degrees).
 
-
 Notes
 -----
