@@ -20,7 +20,7 @@ Steps
 #. Preheat oven to 380.
 #. Place pork chops in a single layer in the bottom of a baking dish, season as desired.
 #. *(Optional)* Prep vegetables (slice, season, add oil, etc.) and add to the pan with the pork.
-#. Place in oven, bake for 20 minutes (or until chicken reaches an internal temperature of 145 degrees).
+#. Place in oven, bake for 20 minutes (or until pork reaches an internal temperature of 145 degrees).
 
 
 Notes
