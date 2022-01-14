@@ -1,5 +1,5 @@
-Simple Oven Sausage
-===================
+Simple Oven Baked Sausage
+=========================
 
 Details
 -------
