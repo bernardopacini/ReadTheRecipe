@@ -6,5 +6,6 @@ Meat
 
    bakedChicken
    stuffingChickenBake
+   bakedRibs
    bakedPorkChop
    bakedSausage
