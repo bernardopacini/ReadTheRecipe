@@ -10,7 +10,7 @@ Details
 Ingredients
 -----------
 
-* 1.5 lbs baby back ribs
+* 1 1/2 lbs baby back ribs
 * *(optional)* Vegetables/potatoes to roast
 * Desired seasonings
 
