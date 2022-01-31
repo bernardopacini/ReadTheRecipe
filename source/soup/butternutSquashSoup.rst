@@ -29,7 +29,7 @@ Ingredients
 * 1/8 to 1/4 teaspoon ground saffron (optional)
 * Drizzle of maple syrup (optional)
 * A few drops of orange blossom water (optional)
-* Sumac for serving
+* Sumac for serving (optional)
 
 Steps
 -----
