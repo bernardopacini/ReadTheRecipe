@@ -5,3 +5,4 @@ Seafood
    :maxdepth: 1
 
    bakedSalmon
+   italianFlagCod
