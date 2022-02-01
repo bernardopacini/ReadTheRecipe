@@ -24,8 +24,8 @@ Steps
 #. Place cod in baking dish.
 #. Chop tomatoes into 1/2 inch pieces.
 #. Chop onions into 1/4 inch pieces.
-#. Combine tomatoes and onions and cover cod.
-#. Sprinkle parsley, salt, and pepper over cod, tomatoes, and onion.
+#. Combine tomatoes and onions, cover cod.
+#. Sprinkle with parsley, salt, and pepper.
 #. Drizzle with olive oil.
 #. Place in oven, bake for 20-25 minutes (or until cod becomes flakey).
 
