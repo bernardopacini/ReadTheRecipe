@@ -23,7 +23,7 @@ Steps
 #. Fill the salsa jar 3/4 with water and pour into the bottom of the crockpot.
 #. Cook on Low for 6-8 hours or on High for 4-6 hours.
 #. With approximately one hour remaining, add rice and stir into liquid.
-#. Shred chicken and serve with desired sides
+#. Shred chicken and serve with desired sides.
 
 Notes
 -----
