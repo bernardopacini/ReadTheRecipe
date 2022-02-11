@@ -23,7 +23,7 @@ Steps
 #. Preheat oven to 400.
 #. In a small bowl whisk together dijon mustard, honey, garlic, salt, and pepper. 
 #. Rub each pork tenderloin with the sauce until thoroughly coated and place in a baking dish.
-#. Place in oven, roast until the pork reaches an internal temperature of 145 degrees F, about 20 to 30 minutes.
+#. Place in oven, roast until the pork reaches an internal temperature of 145 degrees, about 20 to 30 minutes.
 
 Notes
 -----
