@@ -8,6 +8,7 @@ ReadTheRecipe
    snack/index
    soup/index
    pasta/index
+   casserole/index
    meat/index
    seafood/index
    dessert/index
