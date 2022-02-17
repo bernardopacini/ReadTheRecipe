@@ -16,3 +16,4 @@ Meat
    bakedRibs
    bakedPorkChop
    bakedSausage
+   honeyMustardPorkTenderloin
