@@ -35,8 +35,8 @@ Thanks in advance for any contributions!
 * Executive Chef: Jenna King
 * Janitor: Bernardo Pacini
 
-:black_nib: Note on Copyright
------------------------------
+:black_nib: Copyright
+---------------------
 
 Recipes for combining ingredients and preparing food ARE NOT subject to copyright; we do not claim any ownership of what we have included here.
 However, stories about recipes and broad descriptions ARE subject to copyright.
