@@ -32,9 +32,9 @@ Thanks in advance for any contributions!
 :cook: Kitchen Staff (aka Maintainers)
 --------------------------------------
 
-Executive Chef: Jenna King
+**Executive Chef:** Jenna King
 
-Janitor: Bernardo Pacini
+**Janitor:** Bernardo Pacini
 
 :black_nib: Copyright
 ---------------------
