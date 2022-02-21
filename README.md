@@ -29,8 +29,8 @@ To do so, please make a fork (no pun intended, we're cooking after all) of the r
 We will make the recipe and taste test it before merging it into the cookbook.
 Thanks in advance for any contributions!
 
-:cook: Kitchen Staff (aka Maintainers)
---------------------------------------
+:cook: Kitchen Staff
+--------------------
 
 **Executive Chef:** Jenna King
 
