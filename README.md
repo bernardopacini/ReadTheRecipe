@@ -40,9 +40,9 @@ Thanks in advance for any contributions!
 :black_nib: Copyright
 ---------------------
 
-Recipes for combining ingredients and preparing food ARE NOT subject to copyright; we do not claim any ownership of what we have included here.
-However, stories about recipes and broad descriptions ARE subject to copyright.
-When submitting a recipe to our online recipe book, please make sure to include ONLY the instructions and whatever other personal notes you would like to add, following the format of the already included recipes.
+Recipes for combining ingredients and preparing food **are not** subject to copyright; we do not claim any ownership of what we have included here.
+However, stories about recipes and broad descriptions **are** subject to copyright.
+When submitting a recipe to our online recipe book, please make sure to include **only** the instructions and whatever other personal notes you would like to add, following the format of the already included recipes.
 We will have to reject and delete any recipes that provide material that is copyright protected.
 
 :mega: Note
