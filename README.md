@@ -16,6 +16,7 @@ We hope you enjoy the recipes we have here and please don't hesitate to contribu
 * Snack
 * Soup
 * Pasta
+* Casserole
 * Meat
 * Seafood
 * Dessert
