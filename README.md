@@ -16,6 +16,7 @@ We hope you enjoy the recipes we have here and please don't hesitate to contribu
 * Snack
 * Soup
 * Pasta
+* Casserole
 * Meat
 * Seafood
 * Dessert
@@ -29,11 +30,20 @@ To do so, please make a fork (no pun intended, we're cooking after all) of the r
 We will make the recipe and taste test it before merging it into the cookbook.
 Thanks in advance for any contributions!
 
-:cook: Chefs (aka Maintainers)
-------------------------------
+:cook: Kitchen Staff
+--------------------
 
-Bernardo Pacini & Jenna King
+**Executive Chef:** Jenna King
 
+**Janitor:** Bernardo Pacini
+
+:black_nib: Copyright
+---------------------
+
+Recipes for combining ingredients and preparing food **are not** subject to copyright; we do not claim any ownership of what we have included here.
+However, stories about recipes and broad descriptions **are** subject to copyright.
+When submitting a recipe to our online recipe book, please make sure to include **only** the instructions and whatever other personal notes you would like to add, following the format of the already included recipes.
+We will have to reject and delete any recipes that provide material that is copyright protected.
 
 :mega: Note
 -----------
