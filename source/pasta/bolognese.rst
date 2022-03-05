@@ -22,11 +22,11 @@ Great to prepare in advance and then heat up later.
 
 ## Steps
 1. Pre-heat a big pot with a heavy bottom on medium heat for 2 minutes.
-2. Add olive oil, diced onions. Stir to coat with oil and salt onions. Cook until they are about to turn translucent.
+2. Add oil and diced onions. Stir to coat with oil and salt onions. Cook until they are about to turn translucent.
 3. Add diced carrots and celery. Cook for another 2 minutes while stirring frequently.
 4. Add meat and break it up as it browns. Add some salt and pepper.
-5. While meat is browing, use a blender to blend whole tomatoes. This will speed up the cooking process and make the sauce very fruity. 
-6. When the meat lost its red, raw color, add milk and let simmer for a few minutes. This is a great time to add any spices.
+5. While meat is browning, use a blender to blend whole tomatoes. This will speed up the cooking process and make the sauce very fruity. 
+6. When the meat loses its red, raw color, add milk and simmer for a few minutes. This is a great time to add any spices.
 7. Add wine and let alcohol simmer away. Then add blended tomatoes and coat all ingredients evenly. 
 8. Turn the heat down to medium-low and let simmer for at least 1 hr or until veggies are smooth. Stir occasionally.
 
