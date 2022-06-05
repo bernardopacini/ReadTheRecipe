@@ -9,13 +9,16 @@ Details
 
 Ingredients
 -----------
+
 Pork:
+
 * 2lbs boneless pork chop (cut into 3/4 inch cubes)
 * ~1 tsp Onion Powder
 * ~1 tsp Kosher Salt
 * 1 tablespoon Olive Oil
 
 Sauce:
+
 * 1/2 stick butter
 * 2 (or let's be honest, 4) cloves of garlic (minced)
 * 1 tbsp flour (all purpose)
