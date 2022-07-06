@@ -5,4 +5,5 @@ Dessert
    :maxdepth: 1
 
    bananaBread
+   strawberryCobbler
    strawberryPuddingPopsicle
