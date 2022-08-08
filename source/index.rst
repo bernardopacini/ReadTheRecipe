@@ -6,11 +6,12 @@ ReadTheRecipe
 
    breakfast/index
    snack/index
+   appetizer/index
    soup/index
-   sides/index
    casserole/index
    pasta/index
    meat/index
    seafood/index
+   side/index
    dessert/index
    miscellaneous/index
