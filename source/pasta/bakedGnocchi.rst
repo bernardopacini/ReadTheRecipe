@@ -7,7 +7,6 @@ Details
 * Number of servings: 8
 * Cook time: 40 minutes
 
-
 Ingredients
 -----------
 * 1 lb ground italian sausage
@@ -28,6 +27,7 @@ Steps
 4. Top with mozzarella and bake for 30 minutes until gnocchi is tender.
 5. Top finished baked gnocchi with a sprinkling of fresh parsley and serve.
 
-
 Notes
 -----
+
+Adapted from `The Modern Proper <https://themodernproper.com/baked-gnocchi>`_.
