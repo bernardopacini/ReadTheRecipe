@@ -43,5 +43,6 @@ Steps
 
 Notes
 -----
+
 * These pork bites are delicious on their own, or served over rice or quinoa.
 * Don't be afraid to let things get a little brown. A mustard, caramel color is what you're aiming for.

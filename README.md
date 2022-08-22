@@ -1,7 +1,7 @@
 [![Documentation Status](https://readthedocs.org/projects/readtherecipe/badge/?version=latest)](https://readtherecipe.readthedocs.io/en/latest/?badge=latest)
 
-ReadTheRecipe
-=============
+[ReadTheRecipe](https://readtherecipe.readthedocs.io/en/latest/)
+================================================================
 
 Welcome to ReadTheRecipe!
 As graduate students in computational fields working on optimization, we strive to optimize our day-to-day life!
@@ -34,6 +34,10 @@ Thanks in advance for any contributions!
 --------------------
 
 **Executive Chef:** Jenna King
+
+**Pastaiolo:** Jan Bernhard
+
+**Butcher:** Josh King
 
 **Janitor:** Bernardo Pacini
 

@@ -5,7 +5,7 @@ Details
 -------
 
 * Number of servings: 4-8
-* Cook time: 30 Minutes
+* Cook time: 30 minutes
 
 Ingredients
 -----------

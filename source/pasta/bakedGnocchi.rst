@@ -9,6 +9,7 @@ Details
 
 Ingredients
 -----------
+
 * 1 lb ground italian sausage
 * 2 1 lb packages gnocchi
 * 8 oz ricotta

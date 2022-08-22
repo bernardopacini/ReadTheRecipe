@@ -8,7 +8,7 @@ This makes a big batch of sauce.
 It is great to prepare in advance and then heat up later.
 
 * Number of servings: 6-8
-* Cook time: 2 Hours
+* Cook time: 2 hours
 
 
 Ingredients
@@ -31,7 +31,7 @@ Ingredients
 Steps
 -----
 
-1. Pre-heat a big pot with a heavy bottom on medium heat for 2 minutes.
+1. Preheat a big pot with a heavy bottom on medium heat for 2 minutes.
 2. Add oil and diced onions. Stir to coat with oil and salt onions. Cook until they are about to turn translucent.
 3. Add diced carrots and celery. Cook for another 2 minutes while stirring frequently.
 4. Add meat and break it up as it browns. Add some salt and pepper.
