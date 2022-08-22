@@ -5,7 +5,7 @@ Details
 -------
 
 * Number of servings: 6-8
-* Cook time: 50-60 Minutes
+* Cook time: 50-60 minutes
 
 Ingredients
 -----------
@@ -35,4 +35,5 @@ Steps
 
 Notes
 -----
+
 Orzo may be used as a substitute for alphabets.
