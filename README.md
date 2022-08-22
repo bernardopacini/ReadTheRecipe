@@ -35,6 +35,10 @@ Thanks in advance for any contributions!
 
 **Executive Chef:** Jenna King
 
+**Pastaiolo:** Jan Bernhard
+
+**Butcher:** Josh King
+
 **Janitor:** Bernardo Pacini
 
 :black_nib: Copyright
