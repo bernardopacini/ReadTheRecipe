@@ -9,8 +9,8 @@ This cookbook is here to make it easy for you to satisfy those midnight teaching
 All jokes aside, this cookbook is here to centralize recipes in an easy to search website using the tools computational researchers are familiar with.
 We hope you enjoy the recipes we have here and please don't hesitate to contribute to the project!
 
-:page_with_curl: Included Recipe Categories
--------------------------------------------
+:page_with_curl: Recipe Categories
+----------------------------------
 
 * Breakfast
 * Snack

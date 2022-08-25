@@ -4,7 +4,7 @@ Simple Oven Baked Ribs
 Details
 -------
 
-* Number of servings: 2 servings
+* Number of servings: 2
 * Cook time: 30-50 minutes
 
 Ingredients
