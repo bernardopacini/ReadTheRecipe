@@ -47,3 +47,4 @@ Steps
 
 Notes
 -----
+Adapted from `Diethood <https://diethood.com/chicken-vegetables-skillet/>`_.
