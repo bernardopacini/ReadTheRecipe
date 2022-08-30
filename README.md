@@ -39,6 +39,8 @@ Thanks in advance for any contributions!
 
 **Butcher:** Josh King
 
+**Herbivore:** Chris Wentland
+
 **Janitor:** Bernardo Pacini
 
 :black_nib: Copyright

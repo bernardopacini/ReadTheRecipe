@@ -6,6 +6,7 @@ Meat
    :maxdepth: 1
 
    bakedChicken
+   chickenVeggieSkillet
    salsaChicken
    stuffingChickenBake
 
