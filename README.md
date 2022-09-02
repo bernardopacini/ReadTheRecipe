@@ -14,11 +14,13 @@ We hope you enjoy the recipes we have here and please don't hesitate to contribu
 
 * Breakfast
 * Snack
+* Appetizer
 * Soup
-* Pasta
 * Casserole
+* Pasta
 * Meat
 * Seafood
+* Side
 * Dessert
 * Miscellaneous
 
