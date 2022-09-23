@@ -1,5 +1,5 @@
-ReadTheRecipe
-=============
+Welcome!
+========
 
 .. toctree::
    :maxdepth: 1

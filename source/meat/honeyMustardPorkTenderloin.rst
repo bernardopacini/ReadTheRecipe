@@ -27,6 +27,7 @@ Steps
 
 Notes
 -----
+
 For a seared tenderloin, pour olive oil into a skillet. 
 After coating with sauce, place tenderloins into a hot cast-iron.
 Sear tenderloins on each side, using tongs to turn before placing in the oven.

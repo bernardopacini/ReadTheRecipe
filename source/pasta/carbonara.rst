@@ -5,7 +5,7 @@ Details
 -------
 
 * Number of servings: 4 per 1 lb box of spaghetti
-* Cook time: 30 Minutes
+* Cook time: 30 minutes
 
 Ingredients
 -----------

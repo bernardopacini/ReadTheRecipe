@@ -1,7 +1,7 @@
 [![Documentation Status](https://readthedocs.org/projects/readtherecipe/badge/?version=latest)](https://readtherecipe.readthedocs.io/en/latest/?badge=latest)
 
-ReadTheRecipe
-=============
+[ReadTheRecipe](https://readtherecipe.readthedocs.io/en/latest/)
+================================================================
 
 Welcome to ReadTheRecipe!
 As graduate students in computational fields working on optimization, we strive to optimize our day-to-day life!
@@ -9,16 +9,18 @@ This cookbook is here to make it easy for you to satisfy those midnight teaching
 All jokes aside, this cookbook is here to centralize recipes in an easy to search website using the tools computational researchers are familiar with.
 We hope you enjoy the recipes we have here and please don't hesitate to contribute to the project!
 
-:page_with_curl: Included Recipe Categories
--------------------------------------------
+:page_with_curl: Recipe Categories
+----------------------------------
 
 * Breakfast
 * Snack
+* Appetizer
 * Soup
-* Pasta
 * Casserole
+* Pasta
 * Meat
 * Seafood
+* Side
 * Dessert
 * Miscellaneous
 
@@ -34,6 +36,12 @@ Thanks in advance for any contributions!
 --------------------
 
 **Executive Chef:** Jenna King
+
+**Pastaiolo:** Jan Bernhard
+
+**Butcher:** Josh King
+
+**Herbivore:** Chris Wentland
 
 **Janitor:** Bernardo Pacini
 

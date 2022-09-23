@@ -27,5 +27,6 @@ Steps
 
 Notes
 -----
+
 This recipe is easily adaptable for any size crowd.
 Frozen chicken may be used, but cook time will be longer.
