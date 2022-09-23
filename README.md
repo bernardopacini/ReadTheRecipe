@@ -44,9 +44,9 @@ Thanks in advance for any contributions!
 
 **Herbivore:** Chris Wentland
 
-**Janitor:** Bernardo Pacini
-
 **Potager:** Eytan Adler
+
+**Janitor:** Bernardo Pacini
 
 :black_nib: Copyright
 ---------------------

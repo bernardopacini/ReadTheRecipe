@@ -13,14 +13,14 @@ Ingredients
 * 3 tablespoons olive oil
 * 1 red onion, chopped
 * 2 garlic cloves, chopped
-* Kosher salt to taste (roughly 2.5 tsp, 1/4 to 1/2 that amount of using table salt)
+* Kosher salt to taste (roughly 2.5 tsp, 1/4 to 1/2 that amount if using table salt)
 * 1 medium butternut squash (about 2.75 lbs), peeled, seeded, and chopped
 * 1 sweet potato (about 8 ounces), peeled and chopped
-* 1/2 tsp ground cinnamon
-* 3/4 tsp ground cumin
-* 1/4 tsp ground coriander
-* Ground black pepper to taste (roughly 1/4 tsp)
-* *(optional)* 1/8 to 1/4 tsp ground saffron
+* 1/2 teaspoon ground cinnamon
+* 3/4 teaspoon ground cumin
+* 1/4 teaspoon ground coriander
+* Ground black pepper to taste
+* *(optional)* 1/8 to 1/4 teaspoon ground saffron
 * *(optional)* Drizzle of maple syrup
 * *(optional)* A few drops of orange blossom water
 * *(optional)* Sumac for serving
