@@ -46,7 +46,7 @@ Thanks in advance for any contributions!
 
 **Janitor:** Bernardo Pacini
 
-**Human being:** Eytan Adler
+**Potager:** Eytan Adler
 
 :black_nib: Copyright
 ---------------------
