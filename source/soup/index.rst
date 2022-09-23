@@ -6,4 +6,5 @@ Soup
 
    fiveIngrWhiteChickenChili
    alphabetSoup
+   butternutSquashSoup
    veganChili

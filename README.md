@@ -29,6 +29,7 @@ We hope you enjoy the recipes we have here and please don't hesitate to contribu
 
 We'd love to hear your feedback on the recipes (please open an [Issue](https://github.com/bernardopacini/ReadTheRecipe/issues) if you have feedback!) and would love to add recipes contributed by the broader community.
 To do so, please make a fork (no pun intended, we're cooking after all) of the repository and submit a [Pull Request](https://github.com/bernardopacini/ReadTheRecipe/pulls).
+You can build the cookbook locally by installing [Sphinx](https://pypi.org/project/Sphinx/) and the [ReadTheRecipeTheme](https://github.com/bernardopacini/ReadTheRecipeTheme) in a Python environment and then typing `make html` in a terminal in the root ReadTheRecipe directory.
 We will make the recipe and taste test it before merging it into the cookbook.
 Thanks in advance for any contributions!
 
@@ -42,6 +43,8 @@ Thanks in advance for any contributions!
 **Butcher:** Josh King
 
 **Herbivore:** Chris Wentland
+
+**Potager:** Eytan Adler
 
 **Janitor:** Bernardo Pacini
 
