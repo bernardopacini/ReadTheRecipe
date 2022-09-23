@@ -46,7 +46,7 @@ Thanks in advance for any contributions!
 
 **Janitor:** Bernardo Pacini
 
-**Idiot Sandwich:** Eytan Adler
+**Sommelier:** Eytan Adler
 
 :black_nib: Copyright
 ---------------------
