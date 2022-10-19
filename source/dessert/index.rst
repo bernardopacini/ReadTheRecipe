@@ -7,3 +7,4 @@ Dessert
    bananaBread
    strawberryCobbler
    strawberryPuddingPopsicle
+   chocolateCheesecake
