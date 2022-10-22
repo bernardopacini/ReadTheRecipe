@@ -34,4 +34,4 @@ Steps
 Notes
 -----
 
-Farfalle is a great pasta option.
+Most short pasta works well in this dish, but farfalle is a personal favorite.
