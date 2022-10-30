@@ -1,4 +1,4 @@
-Gnocchi with Brussel Sprouts, Garlic, and a shit-load of butter
+Gnocchi with Brussel Sprouts, Garlic, and a boat-load of butter
 ===============================================================
 
 Details
