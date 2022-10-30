@@ -48,6 +48,8 @@ Thanks in advance for any contributions!
 
 **Janitor:** Bernardo Pacini
 
+**pela patate:** Alasdair Gray
+
 :black_nib: Copyright
 ---------------------
 
