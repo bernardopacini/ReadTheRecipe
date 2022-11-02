@@ -46,9 +46,9 @@ Thanks in advance for any contributions!
 
 **Potager:** Eytan Adler
 
-**Janitor:** Bernardo Pacini
+**Pelapatate:** Alasdair Gray
 
-**pela patate:** Alasdair Gray
+**Janitor:** Bernardo Pacini
 
 :black_nib: Copyright
 ---------------------
