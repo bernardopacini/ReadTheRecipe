@@ -5,7 +5,7 @@ Details
 -------
 
 * Number of servings: 4-6
-* Cook time: 45 Minutes
+* Cook time: 45 minutes
 
 Ingredients
 -----------
