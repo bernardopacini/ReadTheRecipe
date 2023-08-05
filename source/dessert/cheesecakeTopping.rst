@@ -1,11 +1,11 @@
-Cheesecake with sour cream topping
+Cheesecake with Sour Cream Topping
 ==================================
 
 Details
 -------
 
-* Servings: 9
-* Prep time: 30 min prep, 30 min baking
+* Number of servings: 9
+* Cook Time: 30 minutes prep, 30 minutes baking
 * Equipment: 8 inch pan
 
 Ingredients
@@ -22,13 +22,13 @@ Filling
 * 11 oz cream cheese (softened)
 * less than 3/4 cup sugar
 * 2 eggs
-* 2 tsp vanilla extract
+* 2 teaspoons vanilla extract
 
 Topping
 ^^^^^^^
 * 1 cup (8 oz) sour cream
 * 1/4 cup sugar
-* 1 tsp vanilla extract
+* 1 teaspoon vanilla extract
 
 Steps
 -----
@@ -38,7 +38,7 @@ Steps
 #. Press crust into the bottom and sides of an 8 inch pan and press down with fingers.
 #. Prepare the topping. Mix sugar and softened cream cheese together until fully incorporated. Add eggs and vanilla and mix well.
 #. Pour filling into crust and spread out. 
-#. Bake for 20 min at 350. Let cool.
+#. Bake for 20 min. Let cool.
 #. While the cheesecake bakes, prepare the topping. Mix sour cream, sugar, and vanilla.
 #. After the cheesecake has cooled, spread the topping starting at the edges.
 #. Bake another 10 minutes. Let cool.
