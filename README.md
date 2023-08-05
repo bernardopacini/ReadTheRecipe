@@ -48,6 +48,8 @@ Thanks in advance for any contributions!
 
 **Pelapatate:** Alasdair Gray
 
+**Pasticcere:** Hannah Hajdik
+
 **Janitor:** Bernardo Pacini
 
 :black_nib: Copyright
