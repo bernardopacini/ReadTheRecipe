@@ -1,5 +1,5 @@
-Pancakes - Jenna
-================
+Pancakes
+========
 
 Details
 -------
