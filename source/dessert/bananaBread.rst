@@ -34,5 +34,6 @@ Steps
 
 Notes
 -----
+
 The riper the bananas the better!
 It is best to wait until the bananas are browner, as the sweetness from the bananas will make the bread much more delicious.
