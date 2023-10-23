@@ -11,7 +11,7 @@ Ingredients
 -----------
 
 * 2 cups strawberries
-* 1.5 cups milk
+* 1 1/2 cups milk
 * 3 tablespoons vanilla instant pudding mix
 
 Steps
