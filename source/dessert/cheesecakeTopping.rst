@@ -6,7 +6,6 @@ Details
 
 * Number of servings: 9
 * Cook Time: 30 minutes prep, 30 minutes baking
-* Equipment: 8 inch pan
 
 Ingredients
 -----------
@@ -45,5 +44,6 @@ Steps
 
 Notes
 -----
+
 * Do not mix the eggs in before the sugar and cream cheese have combined or the filling will have lumps of cream cheese.
 * Increase the amount of crust ingredients by a graham cracker two and an extra tablespoon of butter and sugar for extra crust.
