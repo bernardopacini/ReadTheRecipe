@@ -37,6 +37,7 @@ Steps
 
 Notes
 -----
+
 Even though the strawberries are already sweet, it is still smart to add the full amount of sugar.
 Any type of berry can be used!
 Be sure not to stir the batter too much, lumps are good.
