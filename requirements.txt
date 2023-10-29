@@ -1,1 +1,2 @@
 git+https://github.com/bernardopacini/ReadTheRecipeTheme
+sphinx==6.2.1
