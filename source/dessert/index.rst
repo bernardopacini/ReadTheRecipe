@@ -4,8 +4,8 @@ Dessert
 .. toctree::
    :maxdepth: 1
 
-   brownies
    bananaBread
+   brownies
    cheesecakeTopping
    strawberryCobbler
    strawberryPuddingPopsicle
