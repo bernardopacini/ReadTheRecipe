@@ -14,10 +14,10 @@ Ingredients
 * 500g gnocchi (or any type of pasta)
 * At least 4 cloves of garlic (preferably more), finely minced
 * The juice and zest of 1 lemon (zest less important than juice)
-* 6 tbsp butter
+* 6 tablespoon butter
 * Chili flakes
 * *(optional)* Parmesan
-* *(optional)* 1/2 tsp honey
+* *(optional)* 1/2 teaspoon honey
 
 Steps
 -----

@@ -34,6 +34,7 @@ Steps
 
 Notes
 -----
+
 Stores and freezes well.
 
 Adapted from `Bottom of the Pot <https://bottomofthepot.com/>`_.

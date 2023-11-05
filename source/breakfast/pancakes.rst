@@ -14,7 +14,7 @@ Ingredients
 * 1 1/4 cup buttermilk
 * 2 tablespoon vegetable oil
 * 1 1/4 cup flour
-* 2 tablespoon sugar
+* 2 tablespoons sugar
 * 1 teaspoon baking powder
 * 1/2 teaspoon baking soda
 * 1/2 teaspoon salt
