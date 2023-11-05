@@ -10,17 +10,20 @@ Details
 Ingredients
 -----------
 
-*Bowl 1*
+Bowl 1
+^^^^^^^^
 * 1 1/2 lbs chicken tenders
 * 1/2 cup flour
 * salt + pepper
 
-*Bowl 2*
+Bowl 2
+^^^^^^^^
 * 6 tablespoons olive oil or metted butter
 * 1 teaspoon dried basi
 * 1/4 teaspoon paprika
 
-*Bowl 3*
+Bowl 3
+^^^^^^^^
 * 1 cup panko
 * 2/3 cup grated parmesan
 
