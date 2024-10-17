@@ -34,5 +34,6 @@ Steps
 
 Notes
 -----
+
 Store in the fridge for up to one week.
 Do not reheat the meat, but rather the sauce from the pan. 
