@@ -12,7 +12,6 @@ Ingredients
 
 * 1 spaghetti squash
 * 1-2 tablespoons olive oil
-* Sea salt and black pepper
 * 1/2 teaspoon garlic powder
 * 3 tablespoons fresh basil, shredded
 * 1/2 cup ricotta cheese
@@ -25,7 +24,7 @@ Steps
 
 1. Preheat oven to 450.
 2. Microwave spaghetti squash for 1-2 minutes.
-3. Cut spaghetti squash into 4-6 rounds and remove seeds.
+3. Cut spaghetti squash into 4-6 rounds (~1 inch) and remove seeds.
 4. Brush with olive oil, salt, and pepper.
 5. Roast for 20 minutes, flipping after 10 minutes.
 6. Mix together ricotta cheese, mozzarella cheese, parmesan cheese, basil, and garlic powder.
