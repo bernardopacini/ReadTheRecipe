@@ -9,3 +9,4 @@ Dessert
    cheesecakeTopping
    strawberryCobbler
    strawberryPuddingPopsicle
+   chocolateCheesecake
