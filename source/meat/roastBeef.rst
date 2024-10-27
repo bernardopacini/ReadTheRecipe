@@ -14,8 +14,8 @@ Ingredients
 * Garlic
 * Rosemary
 * 8 bay leaves
-* 6-8 Carrots
-* 6-8 Stalks of celery
+* 6-8 carrots
+* 6-8 stalks of celery
 * Salt, pepper, and peppercorns
 * ~1 cup olive oil
 
