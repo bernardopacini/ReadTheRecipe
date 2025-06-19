@@ -17,8 +17,6 @@ Ingredients
 * 1 tablespoon chopped parsely
 * 1 lemon
 * 4 rosemary sprigs
-* Olive oil
-* Salt
 
 Steps
 -----
