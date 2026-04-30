@@ -5,6 +5,8 @@ Dessert
    :maxdepth: 1
 
    bananaBread
+   brownies
+   cheesecakeTopping
    chocolateCheesecake
    strawberryCobbler
    strawberryPuddingPopsicle

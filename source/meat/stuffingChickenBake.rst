@@ -11,11 +11,11 @@ Ingredients
 -----------
 
 * 4-6 chicken breasts (boneless and skinless)
-* Swiss cheese slices *(optional)*
+* *(optional)* Swiss cheese slices
 * 1 can cream of chicken soup
 * 1/4 cup white wine (Pinot Grigio or Sauvignon Blanc)
 * 1/2 cup butter (melted)
-* 1 - 1 1/2 cups stuffing mix or breadcrumbs
+* 1 1/2 cups stuffing mix or breadcrumbs
 
 Steps
 -----

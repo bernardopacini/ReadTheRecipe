@@ -10,27 +10,29 @@ Details
 Ingredients
 -----------
 
-Pork:
+Pork
+^^^^
 
-* 2lbs boneless pork chop (cut into 3/4 inch cubes)
-* ~1 tsp Onion Powder
-* ~1 tsp Kosher Salt
-* 1 tablespoon Olive Oil
+* 2 lbs boneless pork chop (cut into 3/4 inch cubes)
+* ~1 teaspoon onion powder
+* ~1 teaspoon kosher salt
+* 1 tablespoon olive oil
 
-Sauce:
+Sauce
+^^^^^
 
 * 1/2 stick butter
 * 2 (or let's be honest, 4) cloves of garlic (minced)
-* 1 tbsp flour (all purpose)
+* 1 tablespoon flour (all purpose)
 * 1/2 cup chicken broth
 * 1/2 cup heavy cream
 * 1/2 cup parmesan cheese (fresh grated is always best, cause it's gonna melt)
-* 1/2 a Lemon juice
+* Juice from 1/2 lemon
 
 Steps
 -----
 
-#. Cube Pork into 3/4 inch cubes (consistent size helps with cooking).
+#. Cut pork into 3/4 inch cubes (consistent size helps with cooking).
 #. Place pork in mixing bowl, season with onion powder, salt + pepper.
 #. In a large skillet (I use 12+ inch) heat olive oil over medium heat.
 #. Sear pork for ~3-5 minutes per side, mixing so it cooks evenly. Brown = flavor, so don't be afraid to let it get a bit roasty.

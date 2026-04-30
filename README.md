@@ -46,6 +46,10 @@ Thanks in advance for any contributions!
 
 **Potager:** Eytan Adler
 
+**Pelapatate:** Alasdair Gray
+
+**Pasticcere:** Hannah Hajdik
+
 **Janitor:** Bernardo Pacini
 
 :black_nib: Copyright

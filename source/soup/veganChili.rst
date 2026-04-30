@@ -52,5 +52,6 @@ Chili
 
 Notes
 -----
+
 * Serve with (vegan) sour cream, cornbread, tortilla chips, cilantro, hot sauce, (vegan) cheese shreds, or chives, if desired.
 * Keeps for about a week.

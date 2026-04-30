@@ -7,6 +7,7 @@ Meat
 
    bakedChicken
    chickenVeggieSkillet
+   garlicParmChickenTenders
    salsaChicken
    stuffingChickenBake
 

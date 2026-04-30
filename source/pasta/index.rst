@@ -7,3 +7,4 @@ Pasta
    bakedGnocchi
    bolognese
    carbonara
+   brusselSproutGnocchi
