@@ -83,7 +83,7 @@ Cookies
 #. Combine together in a sifter 3/4 cup flour, 1/2 teaspoon baking soda, and 1/2 teaspoon salt. Sift the mixture onto parchment paper and set aside.
 #. In the bowl of a food processor fitted with a metal blade, combine 3 ounces semisweet chocolate, 2 ounces unsweetened chocolate, 1/2 cup granulated sugar, and 1/4 cup light brown sugar. Process for 20 seconds. Add 4 tablespoons butter and 1 egg and process for 10 seconds. Add 2 teaspoons vanilla extract and process for 20 seconds. Scrape down the sides of the bowl.
 #. Add the sifted flour mixture to the chocolate mixture in the food processor, then pulse for 20 seconds.
-#. Line two baking sheets with parchment paper and preheat the oven to 350 degrees. Portion 12 tablespoons batter, 2 inches apart, onto each of the two baking sheets. Bake in the preheated oven for 22 to 25 minutes. Allow the baked cookies to cool at room temperature for 20 minutes.
+#. Line two baking sheets with parchment paper and preheat the oven to 350 degrees. Portion into 12 or so cookies, 2 inches apart, on each of the two baking sheets. Bake in the preheated oven for 22 to 25 minutes. Allow the baked cookies to cool at room temperature for 20 minutes.
 
 Crust
 ^^^^^
