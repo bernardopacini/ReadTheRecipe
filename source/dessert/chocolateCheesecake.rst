@@ -5,7 +5,7 @@ Details
 -------
 
 * Number of servings: 16
-* Time: At least ~18 hrs (only a few hrs is active work)
+* Time: At least ~18 hrs (only a few hrs are active work)
 
 Ingredients
 -----------
@@ -132,7 +132,7 @@ Chocolate Ganache
 The Eating Part
 ^^^^^^^^^^^^^^^
 
-#. The cheesecake can now be released from the springform pan. If you think there's an chance of sticking, wrap a damp, hot towel around the sides of the pan (the towel should be large enough to completely wrap around and cover the sides of the pan) and hold around the pan for about 1 minute. Carefully release and remove the springform pan.
+#. The cheesecake can now be released from the springform pan. If you think there's any chance of sticking, wrap a damp, hot towel around the sides of the pan (the towel should be large enough to completely wrap around and cover the sides of the pan) and hold around the pan for about 1 minute. Carefully release and remove the springform pan.
 #. Optionally, garnish the top of the cheesecake with fresh, whole red raspberries.
 #. Use a serrated knife to trim the crust so that it is level with the ganache (trim the crust away from the cake so that it does not fall into the ganache).
 #. Portion 3 to 4 tablespoons raspberry sauce onto each plate.
