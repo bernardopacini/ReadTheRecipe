@@ -6,3 +6,4 @@ Seafood
 
    bakedSalmon
    italianFlagCod
+   wholeBranzino
