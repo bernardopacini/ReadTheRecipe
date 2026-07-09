@@ -26,6 +26,7 @@ Chocolate Cookie Crust
 
 Chocolate-Raspberry Cheesecake
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 * 1/2 pint red raspberries
 * 16 ounces semisweet chocolate, broken into 1/2-ounce pieces
 * 1/3 cup brewed full-strength coffee
@@ -52,6 +53,7 @@ Chocolate Ganache
 
 Equipment
 ---------
+
 - Measuring cup
 - Measuring spoons
 - Sifter
