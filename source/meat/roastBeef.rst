@@ -11,12 +11,12 @@ Ingredients
 -----------
 
 * Eye round roast (1.5-2.0 pounds)
-* Garlic
+* 5 cloves garlic, thinly sliced
 * Rosemary
 * 8 bay leaves
 * 6-8 carrots
 * 6-8 stalks of celery
-* Salt, pepper, and peppercorns
+* 2 tablespoons peppercorns
 * ~1 cup olive oil
 
 Steps
