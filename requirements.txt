@@ -1,2 +1,2 @@
 git+https://github.com/bernardopacini/ReadTheRecipeTheme
-sphinx==9.1.0
+sphinx==9.2.0
