@@ -7,3 +7,8 @@ source/.vscode/*
 
 # VSCode
 .vscode/
+
+# Python
+*.pyc
+.venv/
+.python-version
