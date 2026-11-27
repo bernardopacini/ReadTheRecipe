@@ -5,3 +5,4 @@ Miscellaneous
    :maxdepth: 1
 
    pestoStuffedSpaghettiSquashRings
+   pumpkinCoconutCurryChickpeas
